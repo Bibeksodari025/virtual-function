@@ -1,6 +1,6 @@
 // concept on dynamic_cast operator in oop
 #include<iostream>
-
+//
 using namespace std;
 
 class animal
